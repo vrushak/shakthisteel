@@ -1,0 +1,96 @@
+#hiderow,
+.killer {
+  display: none;
+}
+
+
+	 input[type=text] {
+        display: inline-block;
+        border:none;
+       
+       
+    }
+    
+     input[list=products] {
+        display: inline-block;
+        border:none;
+       
+       
+    }
+    
+    .col-xs-5 img {
+width: 3000px;
+height: 140px;
+}
+
+  .strong {
+  color : red;
+  }
+    .col-xs-6 img {
+width: 4000px;
+height: 140px;
+}
+
+ #original  {
+float : right;
+color : red;
+margin-right : 1cm;
+}
+
+#myTable .tbody{
+    min-height: 300px;
+    height:auto;
+    overflow: hidden;
+ }
+
+#logotext{
+  margin-left:70px; 
+  }
+  
+   #logotext1{
+  margin-left:70px; 
+  }
+    
+  myTable td { padding: 5px; }
+
+#refresh{
+	text-align : center;
+}
+
+.button1{
+	float : left;
+	visibility: hidden
+}
+
+ #background{
+    
+    position:absolute;
+    z-index:0;
+    background:white;
+    display:block;
+    min-height:50%; 
+    min-width:50%;
+    color:yellow;
+   
+}
+
+#content{
+    position:absolute;
+    z-index:1;
+}
+
+#bg-text
+
+{   margin-top : 1.0cm;
+    mrgin-left : 10cm;
+    color:#DCDCDC;
+    font-size:25px;
+    transform:rotate(300deg);
+    -webkit-transform:rotate(300deg);
+}
+
+
+ 
+#inv{
+	 mrgin-left : 10cm;
+}
